@@ -1,0 +1,72 @@
+.schedule-list-container {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.schedule-list-container h3 {
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e1e4e8;
+  font-size: 16px;
+}
+
+.schedule-list {
+  max-height: 200px;
+  overflow-y: auto;
+}
+
+.schedule-item {
+  padding: 8px 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f8f9fa;
+  transition: background-color 0.2s;
+}
+
+.schedule-item:hover {
+  background-color: #f1f3f5;
+}
+
+.schedule-item.active {
+  background-color: #e1f5fe;
+  border-left: 3px solid #0366d6;
+}
+
+.schedule-name {
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.schedule-item-actions {
+  display: flex;
+  gap: 5px;
+}
+
+.action-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
+  color: #586069;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
+.action-button:hover {
+  color: #0366d6;
+  background-color: rgba(3, 102, 214, 0.1);
+}
+
+.action-button.delete:hover {
+  color: #cb2431;
+  background-color: rgba(203, 36, 49, 0.1);
+}

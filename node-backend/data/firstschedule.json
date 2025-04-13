@@ -1,0 +1,160 @@
+{
+  "scheduleName": "FirstSchedule",
+  "timeZone": "America/New_York",
+  "scheduleDetails": [
+    {
+      "id": "2025-04-06-09:00-09:00",
+      "startTime": "09:00",
+      "endTime": "09:00",
+      "startDate": "2025-04-06",
+      "endDate": "2025-04-06"
+    },
+    {
+      "id": "2025-04-06-08:15-08:15",
+      "startTime": "08:15",
+      "endTime": "08:15",
+      "startDate": "2025-04-06",
+      "endDate": "2025-04-06"
+    },
+    {
+      "id": "2025-04-07-08:45-08:45",
+      "startTime": "08:45",
+      "endTime": "08:45",
+      "startDate": "2025-04-07",
+      "endDate": "2025-04-07"
+    },
+    {
+      "id": "id_gsywutfyt_m99pe3wc",
+      "startTime": "09:15",
+      "endTime": "09:15",
+      "startDate": "2025-04-07",
+      "endDate": "2025-04-07"
+    },
+    {
+      "id": "2025-04-09-09:15-09:15",
+      "startTime": "09:15",
+      "endTime": "09:15",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-10"
+    },
+    {
+      "id": "2025-04-07-08:15-08:15",
+      "startTime": "08:15",
+      "endTime": "08:15",
+      "startDate": "2025-04-07",
+      "endDate": "2025-04-07"
+    },
+    {
+      "id": "ts_m9dk4w3i_s4ppec5",
+      "startTime": "09:30",
+      "endTime": "10:30",
+      "startDate": "2025-04-08",
+      "endDate": "2025-04-08",
+      "title": "Time Slot (9:30 AM - 10:30 AM)"
+    },
+    {
+      "id": "ts_m9dk51mm_jx0q5cy",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "startDate": "2025-04-10",
+      "endDate": "2025-04-10",
+      "title": "Time Slot (8:00 AM - 8:30 AM)"
+    },
+    {
+      "id": "ts_m9fabcj4_k2up8n3",
+      "startTime": "10:00",
+      "endTime": "13:00",
+      "startDate": "2025-04-14",
+      "endDate": "2025-04-14",
+      "title": "Time Slot (10:00 AM - 1:00 PM)"
+    },
+    {
+      "id": "ts_m9fabdn4_6p85reo",
+      "startTime": "12:00",
+      "endTime": "15:00",
+      "startDate": "2025-04-15",
+      "endDate": "2025-04-15",
+      "title": "Time Slot (12:00 PM - 3:00 PM)"
+    },
+    {
+      "id": "ts_m9fabeva_cruvzfh",
+      "startTime": "12:30",
+      "endTime": "15:00",
+      "startDate": "2025-04-17",
+      "endDate": "2025-04-17",
+      "title": "Time Slot (12:30 PM - 3:00 PM)"
+    },
+    {
+      "id": "ts_m9fabgvu_9uxouyj",
+      "startTime": "09:30",
+      "endTime": "16:30",
+      "startDate": "2025-04-16",
+      "endDate": "2025-04-16",
+      "title": "Time Slot (9:30 AM - 4:30 PM)"
+    },
+    {
+      "id": "ts_m9fabsrz_p3seloz",
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-18",
+      "title": "Time Slot (9:00 AM - 11:00 AM)"
+    },
+    {
+      "id": "ts_m9fdlxjw_t163mkt",
+      "startTime": "10:30",
+      "endTime": "14:00",
+      "startDate": "2025-04-24",
+      "endDate": "2025-04-24",
+      "title": "Time Slot (10:30 AM - 2:00 PM)"
+    },
+    {
+      "id": "ts_m9fdlza4_z8loi51",
+      "startTime": "11:30",
+      "endTime": "14:30",
+      "startDate": "2025-04-30",
+      "endDate": "2025-04-30",
+      "title": "Time Slot (11:30 AM - 2:30 PM)"
+    },
+    {
+      "id": "ts_m9fdy1kr_l37bjqr",
+      "startTime": "11:30",
+      "endTime": "13:30",
+      "startDate": "2025-05-05",
+      "endDate": "2025-05-05",
+      "title": "Time Slot (11:30 AM - 1:30 PM)"
+    },
+    {
+      "id": "ts_m9fdz247_946pgub",
+      "startTime": "13:30",
+      "endTime": "16:30",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-18",
+      "title": "Time Slot (1:30 PM - 4:30 PM)"
+    },
+    {
+      "id": "ts_m9fdzd17_ldpg5ux",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "startDate": "2025-06-05",
+      "endDate": "2025-06-05",
+      "title": "New Event"
+    },
+    {
+      "id": "ts_m9fdzf1q_7cyao92",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-06",
+      "title": "New Event"
+    },
+    {
+      "id": "ts_m9fe47yv_iip7so9",
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "startDate": "2025-05-07",
+      "endDate": "2025-05-07",
+      "title": "Time Slot (12:00 PM - 4:00 PM)"
+    }
+  ]
+}

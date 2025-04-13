@@ -1,0 +1,73 @@
+.schedule-info-container {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.schedule-info-container h3 {
+  margin-bottom: 10px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e1e4e8;
+  font-size: 16px;
+}
+
+.schedule-info-content {
+  margin-bottom: 15px;
+}
+
+.schedule-info-item {
+  margin-bottom: 8px;
+  display: flex;
+}
+
+.schedule-info-label {
+  font-weight: 600;
+  color: #586069;
+  width: 100px;
+  flex-shrink: 0;
+}
+
+.selected-time-slots h4 {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #24292e;
+}
+
+.time-slots-list {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.time-slot-group {
+  margin-bottom: 15px;
+}
+
+.time-slot-date {
+  font-weight: 600;
+  margin-bottom: 5px;
+  color: #24292e;
+  font-size: 14px;
+}
+
+.time-slot-item {
+  padding: 8px 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  background-color: #f1f8ff;
+  border-left: 3px solid #0366d6;
+}
+
+.time-slot-time {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.time-slot-title {
+  font-size: 12px;
+  color: #586069;
+  margin-top: 3px;
+}
