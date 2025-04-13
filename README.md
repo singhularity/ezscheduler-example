@@ -1,5 +1,7 @@
 # Scheduler Widget Complete Example
 
+![til](./demos/basic_usage.gif)
+
 This example demonstrates a complete implementation of the Scheduler Widget with:
 - A Node.js backend for storing and managing schedules
 - A React frontend for a modern user interface
